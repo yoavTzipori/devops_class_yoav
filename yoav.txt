@@ -1,0 +1,7 @@
+hello 
+hello again 
+
+
+If file = = hello :
+Else 
+Fuincxtionm 
